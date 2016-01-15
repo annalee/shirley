@@ -1,1 +1,4 @@
 shirley/settings
+shirley/__pycache__
+shirley/db.sqlite3
+workflows/__pycache__
